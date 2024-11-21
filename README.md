@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jason!
-- 👀 I’m interested in developing software and lowering my golf scores
+- 👀 I’m interested in developing software and golf
 - 🌱 I’m currently learning backend development
 <!---
 - 💞️ I’m looking to collaborate on ...
